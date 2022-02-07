@@ -1,0 +1,38 @@
+.card1{
+    border-style: solid;
+    border-radius: 5px;
+    height : 80%;
+    width: 60%;
+    text-align: center;
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-top: 40px;
+    background-color: #61f6fb;
+}
+
+.container{
+    padding: 40px 0px;
+    flex-wrap: wrap;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+
+.card2{
+    border-style: solid;
+    border-radius: 5px;
+    height : 80%;
+    width: 60%;
+    text-align: center;
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-top: 40px;
+    background-color: #61f6fb;
+}
+
+
+.photo{
+    width: 50px;
+    height: 50px;
+}
+
